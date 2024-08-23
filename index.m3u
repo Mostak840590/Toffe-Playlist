@@ -1,0 +1,27 @@
+
+#EXTINF:-1 group-title="Toffe" tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png",Zee Bangla 
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/zee_bangla_576/zee_bangla_576.m3u8?bitrate=1000000&channel=zee_bangla_576&gp_id=
+
+#EXTINF:-1 group-title="Toffe" tvg-logo="https://images.toffeelive.com/images/program/403/logo/240x240/mobile_logo_368845001655891378.png",Zee Bangla Cinema
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/zee_bangla_cinema_160/zee_bangla_cinema_160.m3u8?bitrate=512000&channel=zee_bangla_cinema_160&gp_id=
+
+#EXTINF:-1 group-title="Toffe" tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png",SONY ENTERTAINMENT TELEVISION
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_entertainment_576/sony_entertainment_576.m3u8?bitrate=1000000&channel=sony_entertainment_576&gp_id=
+
+#EXTINF:-1 group-title="Toffe" tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png",SONY MAX
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_max_576/sony_max_576.m3u8?bitrate=1000000&channel=sony_max_576&gp_id=
+
+#EXTINF:-1 group-title="Toffe" tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png",B4U Movies
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/b4u_movies_576/b4u_movies_576.m3u8?bitrate=1000000&channel=b4u_movies_576&gp_id=
+
+#EXTINF:-1 group-title="Toffe" tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png",B4U Music
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/b4u_movies_576/b4u_movies_576.m3u8?bitrate=1000000&channel=b4u_movies_576&gp_id=
+
+#EXTINF:-1 group-title="Toffe" tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_889093001687255310.png",TOFFEE Dramas
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/toffee_drama_160/toffee_drama_160.m3u8?bitrate=512000&channel=toffee_drama_160&gp_id
+
+#EXTINF:-1 group-title="Toffe" tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_406284001687254721.png",TOFFEE Movies
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/toffee_movie_576/toffee_movie_576.m3u8?bitrate=1000000&channel=toffee_movie_576&gp_id=
+
+#EXTINF:-1 group-title="Toffe" tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_141811001712122330.png",TOFFEE Sports
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sports_highlights_576/sports_highlights_576.m3u8?bitrate=1000000&channel=sports_highlights_576&gp_id=
